@@ -1,0 +1,27 @@
+table{
+    /* Enlever les espaces entre les cellules d'un tableau */
+    border-collapse:collapse;
+}
+
+
+/* td{ 
+    /* Aligne tous les td */
+    /* text-align:center;
+} */
+
+#TableauDivise{
+    /* Centrer les textes dans les cellule d'un tableau avec un id */
+    text-align:center;
+ }
+
+
+#celldiv{
+    /* Faire une ligne verticale dans une cellule divisée avec un id*/
+    border-right: 1px solid;
+}
+
+#MesBordureDiv{
+    /* Centrer les textes dans les cellule d'un tableau avec un id */
+    text-align:center;
+}
+    
